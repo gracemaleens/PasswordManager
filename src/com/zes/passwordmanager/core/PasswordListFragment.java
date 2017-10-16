@@ -277,7 +277,7 @@ public class PasswordListFragment extends ListFragment {
 				.setNeutralButton(R.string.password_list_dialog_delete_button_cancel, null)
 				.show();
 				
-				break;
+				return true;
 			default:
 				break;
 			}

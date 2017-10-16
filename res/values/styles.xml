@@ -21,6 +21,9 @@
         <item name="windowActionModeOverlay">true</item>
         <item name="android:actionModeBackground">@color/colorPrimary</item>
     </style>
+    
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
 
     <style name="passwordBaseLayout">
         <item name="android:paddingLeft">20dp</item>
@@ -42,8 +45,5 @@
     <style name="ListViewCheckTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
         <item name="android:button">@drawable/selector_list_view_item_check</item>
     </style>
-
-    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
-    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
 
 </resources>
