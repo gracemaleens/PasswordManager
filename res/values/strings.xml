@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">密码管理器</string>
+    
+    <string name="password_title_textLabel">标题：</string>
+    <string name="password_password_textLabel">密码：</string>
+    <string name="password_timelock_textLabel">时间锁：</string>
+    <string name="password_notes_textLabel">备注：</string>
+    <string name="password_datetime_1">无</string>
+    <string name="password_datetime_2">解锁剩余：%1$d 天 %2$d 时 %3$d 分 %4$d 秒</string>
+    <string name="password_generalTitleBar_title_1">新建密码</string>
+    <string name="password_generalTitleBar_title_2">查看密码</string>
+    <string name="password_generalTitleBar_right_1">新建</string>
+    <string name="password_generalTitleBar_right_2">保存</string>
+    <string name="password_generalTitleBar_left_1">取消</string>
+    <string name="password_generalTitleBar_left_2">返回</string>
+    <string name="datetime_setDatetime_button_1">设置时间</string>
+    <string name="datetime_setDatetime_button_2">设置日期</string>
+    
+    <string name="menu_toolbar_password_list_setting_launch_password">设置启动密码</string>
+    <string name="menu_toolbar_password_list_setting_launch_password_2">修改启动密码</string>
+    <string name="menu_toolbar_password_list_clear_launch_password">清除启动密码</string>
+    <string name="menu_toolbar_password_list_add">新建</string>
+    <string name="menu_toolbar_password_save">保存</string>
+    <string name="menu_toolbar_password_delete">删除</string>
+    <string name="menu_toolbar_setting_launch_password_confirm">确定</string>
+    <string name="menu_action_mode_password_list_delete">删除</string>
+    <string name="password_toolbar_title_1">新建密码</string>
+    <string name="password_toolbar_title_2">密码详情</string>
+    <string name="password_dialog_save_msg_noTitle">标题不能为空，请重新输入！</string>
+    <string name="password_dialog_save_msg_noPassword">密码不能为空，请重新输入！</string>
+    <string name="password_dialog_save_button_ok">确定</string>
+    <string name="password_dialog_delete_msg_isDelete">即将永久删除这条数据，是否确定？</string>
+    <string name="password_dialog_delete_button_ok">确定</string>
+    <string name="password_dialog_delete_button_cancel">取消</string>
+    <string name="password_list_toolbar_title">密码管理</string>
+    <string name="password_list_dialog_delete_msg_isDelete">即将永久删除选中的数据，是否确定？</string>
+    <string name="password_list_dialog_delete_button_ok">确定</string>
+    <string name="password_list_dialog_delete_button_cancel">取消</string>
+    <string name="password_list_empty">当前列表为空，请点击右上角创建第一个密码！</string>
+    <string name="launch_password_editText">请输入启动密码</string>
+    <string name="launch_password_button">进入应用</string>
+    <string name="splash_textView">Welcome</string>
+    <string name="setting_launch_password_old_password_hint">请输入旧密码</string>
+    <string name="setting_launch_password_new_password_hint">请输入新密码</string>
+    <string name="setting_launch_password_again_new_password_hint">确认新密码</string>
+    <string name="setting_launch_password_new_password_hint_2">请输入密码</string>
+    <string name="setting_launch_password_again_new_password_hint_2">确认密码</string>
+    <string name="setting_launch_password_toolbar_title">设置启动密码</string>
+    <string name="clear_launch_password_title">清除启动密码</string>
+    <string name="clear_launch_password_editText_hint">请输入启动密码</string>
+    <string name="clear_launch_password_button_ok">确定</string>
+    <string name="clear_launch_password_button_cancel">取消</string>
+
+</resources>
